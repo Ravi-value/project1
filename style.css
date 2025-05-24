@@ -209,8 +209,6 @@ span{
 }
 .long_e{
    display: flex;
-   /* position:relative;
-   left: -300px; */
    width: 70%;
    margin-top: 1%;
 }
